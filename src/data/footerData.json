@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "name": "Company",
+      "links": [
+        {
+          "name": "About Us",
+          "url": "/about"
+        },
+        {
+          "name": "Careers",
+          "url": "/careers"
+        },
+        {
+          "name": "Contact Us",
+          "url": "/contact"
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "links": [
+        {
+          "name": "Features",
+          "url": "/features"
+        },
+        {
+          "name": "Pricing",
+          "url": "/pricing"
+        },
+        {
+          "name": "API",
+          "url": "/api"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "links": [
+        {
+          "name": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "name": "Refund Policy",
+          "url": "/refund"
+
+        },
+        {
+          "name": "Terms of Service",
+          "url": "/terms"
+        },
+        {
+          "name": "Privacy Policy",
+          "url": "/privacy"
+        }
+      ]
+    }
+  ]
+}

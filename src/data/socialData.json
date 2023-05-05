@@ -1,0 +1,29 @@
+{
+  "Social": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/quadtreeai/",
+      "icon": "FaFacebookF"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/quadtreeai",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/quadtreeai/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/quadtreeai/",
+      "icon": "FaLinkedinIn"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UCZQZ5Z5Z5Z5Z5Z5Z5Z5Z5Z5",
+      "icon": "FaYoutube"
+    }
+  ]
+}

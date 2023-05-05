@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# QuadTree.ai
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./src/assets/logos/QuadTree_svg.svg" alt="QuadTree.ai Logo" height="150" width="150">
 
-## Available Scripts
+[![GitHub status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/quadtree-ai/quadtree)
 
-In the project directory, you can run:
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/quadtree-ai/quadtree/blob/main/LICENSE)
 
-### `npm start`
+QuadTree.ai is a web-based platform for building and deploying artificial intelligence (AI) models. It offers a user-friendly interface that allows users to easily create, train, and deploy machine learning models, without the need for extensive programming knowledge.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+QuadTree.ai offers the following features:
 
-### `npm test`
+- **Model Builder:** A drag-and-drop interface for building AI models using pre-built blocks and custom code.
+- **Model Trainer:** An integrated training pipeline that supports various deep learning algorithms and lets you monitor the training progress using TensorBoard.
+- **Model Deployment:** A deployment wizard that makes it easy to deploy trained models as web services, without any additional setup.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
 
-### `npm run build`
+QuadTree.ai is built on top of the TensorFlow framework and uses Keras as a high-level API for building models. It also uses other popular Python libraries, such as NumPy, Pandas, and Matplotlib, to provide a comprehensive machine learning environment.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+QuadTree.ai is a web-based platform, so you don't need to install anything on your local machine to use it. Simply create an account on our website and start building your models right away.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
 
-### `npm run eject`
+We welcome contributions from anyone who is interested in improving QuadTree.ai. If you have any ideas, bug reports, or feature requests, please feel free to open an issue or submit a pull request on our GitHub repository.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+QuadTree.ai is open source and is released under the [MIT License](https://github.com/quadtree-ai/quadtree/blob/main/LICENSE).

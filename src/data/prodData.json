@@ -1,0 +1,25 @@
+{
+    "Products":[
+        {
+            "id": 1,
+            "name": "MediOCR",
+            "imageUrl": "MediOCR",
+            "title": "Medical image and document processing",
+            "description": "Process medical documents and perform OCR using real-time document detection, recognition & localization"
+        },
+        {
+            "id": 2,
+            "name": "BlindWalk",
+            "imageUrl": "BlindWalk",
+            "title": "Navigation Technology for Visually Impaired",
+            "description": "Assist visually-impaired users in exploring their environment and navigating using voice commands"
+        },
+        {
+            "id": 3,
+            "name": "WordAid",
+            "imageUrl": "WordAid",
+            "title": "Real-time assistant",
+            "description": "Process real-time audio and perform speech recognition for real-time assistance"
+        }
+    ]
+}

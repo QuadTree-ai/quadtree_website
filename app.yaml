@@ -1,16 +1,20 @@
-runtime: nodejs
-env: flex
-
-runtime_config:
-  nodejs_version: 14
+runtime: nodejs14
 
 env_variables:
   MY_VAR: my_value
   NODE_ENV: production
 
 automatic_scaling:
-  min_num_instances: 1
-  max_num_instances: 2
-  cool_down_period_sec: 180
-  cpu_utilization:
-    target_utilization: 0.5
+  min_instances: 1
+  max_instances: 2
+  target_cpu_utilization: 0.5
+
+resources:
+  cpu: 4
+  memory_gb: 8
+  disk_size_gb: 10
+
+handlers:
+- url: /.*
+  script: auto
+  secure: always
